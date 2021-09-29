@@ -11,6 +11,6 @@ Users will need to login using their gmail accounts in order to obtain access to
 
 URL -> XAMP / WAMP SERVER base url / FOLDER NAME
 
-Example -> http://localhost:80/SSD/Github/SSD_Assignment_02
+Example -> http://localhost:80/SSD_Assignment_02
 
 Directory path -> D:\xampp\htdocs\SSD\Github\SSD_Assignment_02
