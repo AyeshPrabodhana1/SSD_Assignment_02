@@ -13,4 +13,4 @@ URL -> XAMP / WAMP SERVER base url / FOLDER NAME
 
 Example -> http://localhost:80/SSD_Assignment_02
 
-Directory path -> D:\xampp\htdocs\SSD\Github\SSD_Assignment_02
+Directory path -> D:\xampp\htdocs\SSD_Assignment_02
